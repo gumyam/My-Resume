@@ -6,4 +6,4 @@ HTML Resume Template
 
 **Try out the demo**
 
-+ http://lenville.com/resume/resume_cn.html
++ ~~http://lenville.com/resume/resume_cn.html~~
